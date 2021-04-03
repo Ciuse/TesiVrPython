@@ -1,0 +1,2 @@
+average tweezers error: 3.75
+average touching container error: 0.75

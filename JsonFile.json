@@ -1,0 +1,1398 @@
+{
+  "ListOfObject" : {
+    "-MWiFMl9fgaNyfmFOSwr" : {
+      "endTime" : "2021-03-26T12:18:07.945659+01:00",
+      "executionNumber" : 0,
+      "idObject" : 0,
+      "numberOfErrorObject" : 0,
+      "numberOfErrorPinza" : 2,
+      "startTime" : "2021-03-26T12:18:05.573336+01:00",
+      "trajectoryList" : [ {
+        "duration" : "00:00:00.0031020",
+        "id" : 0,
+        "positionList" : [ {
+          "magnitude" : 9.579126,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0943585858,
+            "y" : 0.247563273,
+            "z" : -0.964266
+          },
+          "sqrMagnitude" : 91.75967,
+          "x" : -0.9038728,
+          "y" : 2.37144,
+          "z" : -9.236826
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      }, {
+        "duration" : "00:00:00.3912810",
+        "id" : 1,
+        "positionList" : [ {
+          "magnitude" : 9.579126,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0943585858,
+            "y" : 0.247563273,
+            "z" : -0.964266
+          },
+          "sqrMagnitude" : 91.75967,
+          "x" : -0.9038728,
+          "y" : 2.37144,
+          "z" : -9.236826
+        }, {
+          "magnitude" : 9.579126,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0943585858,
+            "y" : 0.247563273,
+            "z" : -0.964266
+          },
+          "sqrMagnitude" : 91.75967,
+          "x" : -0.9038728,
+          "y" : 2.37144,
+          "z" : -9.236826
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      } ]
+    },
+    "-MWiFRKhCM3MUVwhszxT" : {
+      "endTime" : "2021-03-26T12:18:27.381739+01:00",
+      "executionNumber" : 1,
+      "idObject" : 1,
+      "numberOfErrorObject" : 0,
+      "numberOfErrorPinza" : 4,
+      "startTime" : "2021-03-26T12:18:17.049695+01:00",
+      "trajectoryList" : [ {
+        "duration" : "00:00:00.0006910",
+        "id" : 0,
+        "positionList" : [ {
+          "magnitude" : 9.659787,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 0.99999994,
+            "x" : -0.0339093655,
+            "y" : 0.245496079,
+            "z" : -0.9688043
+          },
+          "sqrMagnitude" : 93.31148,
+          "x" : -0.327557266,
+          "y" : 2.37144,
+          "z" : -9.358443
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      }, {
+        "duration" : "00:00:01.0022750",
+        "id" : 1,
+        "positionList" : [ {
+          "magnitude" : 9.659787,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 0.99999994,
+            "x" : -0.0339093655,
+            "y" : 0.245496079,
+            "z" : -0.9688043
+          },
+          "sqrMagnitude" : 93.31148,
+          "x" : -0.327557266,
+          "y" : 2.37144,
+          "z" : -9.358443
+        }, {
+          "magnitude" : 9.659787,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 0.99999994,
+            "x" : -0.0339093655,
+            "y" : 0.245496079,
+            "z" : -0.9688043
+          },
+          "sqrMagnitude" : 93.31148,
+          "x" : -0.327557266,
+          "y" : 2.37144,
+          "z" : -9.358443
+        }, {
+          "magnitude" : 9.660577,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0109367808,
+            "y" : 0.245475963,
+            "z" : -0.969341
+          },
+          "sqrMagnitude" : 93.32675,
+          "x" : -0.105655611,
+          "y" : 2.37143946,
+          "z" : -9.364393
+        }, {
+          "magnitude" : 9.660577,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0109367808,
+            "y" : 0.245475963,
+            "z" : -0.969341
+          },
+          "sqrMagnitude" : 93.32675,
+          "x" : -0.105655611,
+          "y" : 2.37143946,
+          "z" : -9.364393
+        }, {
+          "magnitude" : 9.660577,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0109367808,
+            "y" : 0.245475963,
+            "z" : -0.969341
+          },
+          "sqrMagnitude" : 93.32675,
+          "x" : -0.105655611,
+          "y" : 2.37143946,
+          "z" : -9.364393
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      }, {
+        "duration" : "00:00:02.9941740",
+        "id" : 2,
+        "positionList" : [ {
+          "magnitude" : 9.689798,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.01976423,
+            "y" : 0.244735792,
+            "z" : -0.969388366
+          },
+          "sqrMagnitude" : 93.8922,
+          "x" : -0.191511407,
+          "y" : 2.37144041,
+          "z" : -9.393178
+        }, {
+          "magnitude" : 9.689798,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.01976423,
+            "y" : 0.244735792,
+            "z" : -0.969388366
+          },
+          "sqrMagnitude" : 93.8922,
+          "x" : -0.191511407,
+          "y" : 2.37144041,
+          "z" : -9.393178
+        }, {
+          "magnitude" : 9.689798,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.01976423,
+            "y" : 0.244735792,
+            "z" : -0.969388366
+          },
+          "sqrMagnitude" : 93.8922,
+          "x" : -0.191511407,
+          "y" : 2.37144041,
+          "z" : -9.393178
+        }, {
+          "magnitude" : 9.689798,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.01976423,
+            "y" : 0.244735792,
+            "z" : -0.969388366
+          },
+          "sqrMagnitude" : 93.8922,
+          "x" : -0.191511407,
+          "y" : 2.37144041,
+          "z" : -9.393178
+        }, {
+          "magnitude" : 9.689798,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.01976423,
+            "y" : 0.244735792,
+            "z" : -0.969388366
+          },
+          "sqrMagnitude" : 93.8922,
+          "x" : -0.191511407,
+          "y" : 2.37144041,
+          "z" : -9.393178
+        }, {
+          "magnitude" : 9.689798,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.01976423,
+            "y" : 0.244735792,
+            "z" : -0.969388366
+          },
+          "sqrMagnitude" : 93.8922,
+          "x" : -0.191511407,
+          "y" : 2.37144041,
+          "z" : -9.393178
+        }, {
+          "magnitude" : 9.67809,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0260271989,
+            "y" : 0.245031759,
+            "z" : -0.9691656
+          },
+          "sqrMagnitude" : 93.66542,
+          "x" : -0.25189358,
+          "y" : 2.37143946,
+          "z" : -9.379672
+        }, {
+          "magnitude" : 9.67809,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0260271989,
+            "y" : 0.245031759,
+            "z" : -0.9691656
+          },
+          "sqrMagnitude" : 93.66542,
+          "x" : -0.25189358,
+          "y" : 2.37143946,
+          "z" : -9.379672
+        }, {
+          "magnitude" : 9.67809,
+          "normalized" : {
+            "magnitude" : 1.0,
+            "sqrMagnitude" : 1.0,
+            "x" : -0.0260271989,
+            "y" : 0.245031759,
+            "z" : -0.9691656
+          },
+          "sqrMagnitude" : 93.66542,
+          "x" : -0.25189358,
+          "y" : 2.37143946,
+          "z" : -9.379672
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      }, {
+        "duration" : "00:00:01.8106480",
+        "id" : 3,
+        "positionList" : [ {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        }, {
+          "magnitude" : 9.629284,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : -0.0154153137,
+              "y" : 0.246273816,
+              "z" : -0.9690777
+            },
+            "sqrMagnitude" : 0.9999999,
+            "x" : -0.0154153127,
+            "y" : 0.2462738,
+            "z" : -0.969077647
+          },
+          "sqrMagnitude" : 92.7231,
+          "x" : -0.148438424,
+          "y" : 2.37144041,
+          "z" : -9.331524
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      } ]
+    },
+    "-MWiFU3yQxgOnFdWKKAa" : {
+      "endTime" : "2021-03-26T12:18:38.645909+01:00",
+      "executionNumber" : 2,
+      "idObject" : 2,
+      "numberOfErrorObject" : 0,
+      "numberOfErrorPinza" : 2,
+      "startTime" : "2021-03-26T12:18:34.329756+01:00",
+      "trajectoryList" : [ {
+        "duration" : "00:00:00.1253900",
+        "id" : 0,
+        "positionList" : [ {
+          "magnitude" : 9.57067,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.00000012,
+              "x" : 0.0448770225,
+              "y" : 0.247782081,
+              "z" : -0.9677759
+            },
+            "sqrMagnitude" : 0.99999994,
+            "x" : 0.04487702,
+            "y" : 0.247782066,
+            "z" : -0.9677758
+          },
+          "sqrMagnitude" : 91.5977249,
+          "x" : 0.429503143,
+          "y" : 2.37144041,
+          "z" : -9.262263
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      }, {
+        "duration" : "00:00:00.5985800",
+        "id" : 1,
+        "positionList" : [ {
+          "magnitude" : 9.57067,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.00000012,
+              "x" : 0.0448770225,
+              "y" : 0.247782081,
+              "z" : -0.9677759
+            },
+            "sqrMagnitude" : 0.99999994,
+            "x" : 0.04487702,
+            "y" : 0.247782066,
+            "z" : -0.9677758
+          },
+          "sqrMagnitude" : 91.5977249,
+          "x" : 0.429503143,
+          "y" : 2.37144041,
+          "z" : -9.262263
+        }, {
+          "magnitude" : 9.57067,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.00000012,
+              "x" : 0.0448770225,
+              "y" : 0.247782081,
+              "z" : -0.9677759
+            },
+            "sqrMagnitude" : 0.99999994,
+            "x" : 0.04487702,
+            "y" : 0.247782066,
+            "z" : -0.9677758
+          },
+          "sqrMagnitude" : 91.5977249,
+          "x" : 0.429503143,
+          "y" : 2.37144041,
+          "z" : -9.262263
+        }, {
+          "magnitude" : 9.57067,
+          "normalized" : {
+            "magnitude" : 0.99999994,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.00000012,
+              "x" : 0.0448770225,
+              "y" : 0.247782081,
+              "z" : -0.9677759
+            },
+            "sqrMagnitude" : 0.99999994,
+            "x" : 0.04487702,
+            "y" : 0.247782066,
+            "z" : -0.9677758
+          },
+          "sqrMagnitude" : 91.5977249,
+          "x" : 0.429503143,
+          "y" : 2.37144041,
+          "z" : -9.262263
+        } ],
+        "rotationList" : [ {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        }, {
+          "eulerAngles" : {
+            "magnitude" : 355.955383,
+            "normalized" : {
+              "magnitude" : 1.0,
+              "sqrMagnitude" : 1.0,
+              "x" : 0.0,
+              "y" : 1.0,
+              "z" : 0.0
+            },
+            "sqrMagnitude" : 126704.234,
+            "x" : 0.0,
+            "y" : 355.955383,
+            "z" : 0.0
+          },
+          "w" : 0.9993772,
+          "x" : 0.0,
+          "y" : -0.0352885164,
+          "z" : 0.0
+        } ]
+      } ]
+    }
+  },
+  "SETTINGS" : {
+    "detectObjectCollision" : true,
+    "detectPinzaCollision" : true,
+    "hand" : "leftHand",
+    "hideHand" : true,
+    "sound" : true,
+    "vibration" : true,
+    "visualObject" : true,
+    "visualPinza" : true
+  }
+}
